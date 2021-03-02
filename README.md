@@ -1,2 +1,3 @@
 # hello-world
-Nothing new
+
+This is my first project that will include GitHub service
